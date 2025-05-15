@@ -5,3 +5,4 @@ ers to courses based on various constraints. This project uses backtracking (sim
 N-Queen logic) to ensure that no course, room, or teacher overlaps in a way that causes
 conflicts. Our system also features a user-friendly graphical interface that allows users
 to generate schedules from CSV files without writing code.
+(AI Lab Project CSE316)
